@@ -5,3 +5,9 @@
 - [Course App](https://fem-design-systems.netlify.app/)
 
 Shift our mindset to think modularly - think in components instead of in printed pages.
+
+# General Notes
+
+Gatsby also a good option for Style Guide. Documentation can still be written in MDX. They have a starter file for a blog which is really similar.
+
+React Styleguides also a good tool.
