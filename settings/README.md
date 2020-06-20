@@ -24,4 +24,4 @@ Mandatory
 
 Optional
 
-- MDX (If any projects contain MDX files)
+- VSCode MDX (If any projects contain MDX files)
