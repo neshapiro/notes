@@ -86,3 +86,7 @@ This will give us the ability to do quick accessibility checks.
 [Check out the slides](https://fem-design-systems.netlify.app/customizing-storybook)
 
 This is needed if you want to have your brand identity on your Storybook. It will require a `manager.js` file to specify the config. Here you can choose to use their standard themes, or you can create and import your own!
+
+## Deploying
+
+Use the build command to build our storybook files into a static folder that we can deploy!
