@@ -52,4 +52,5 @@ This slide had a cool rippling water effect that I might want to use as inspirat
 
 - Think about things separately. Layout vs colors vs typography, etc.
 - Don't start designs in the browser. Separate your designs from your development. Development puts you in problem solving mode which can be detrimental to your designs.
+- CSS Writing Mode is a great option for internationalization. [Here is an article by Jen Simmons](https://24ways.org/2016/css-writing-modes/)
 - Fun fact: Sarah's favorite period for prints is the edo period, hence her twitter name [@sarahedo](https://twitter.com/sarah_edo)
