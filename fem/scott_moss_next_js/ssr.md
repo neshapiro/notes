@@ -4,7 +4,7 @@ Sometimes you just need to skip rendering some component on the server because i
 
 ## Dynamic Imports
 
-Dynamic Imports don't get rendered/built/bundled until they're accessed. Think about making a component it's own page entirely.
+Dynamic Imports don't get rendered/built/bundled until they're accessed. Think about it like making a component it's own page entirely.
 
 ```
 const SponsoredAd = dynamic(
